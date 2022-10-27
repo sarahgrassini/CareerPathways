@@ -10,7 +10,7 @@ header{
 }
 
 nav{
-	background-color: hotpink;
+	background-color: palevioletred;
 
 }
 
@@ -35,7 +35,7 @@ h1{
 }
 section{
 	padding: 20px 10px;
-	background-color: seagreen;
+	background-color: lightsalmon;
 	color: whitesmoke;
 
 }
@@ -43,7 +43,7 @@ section{
 footer{
 	padding: 20px 10px;
 	margin-left: 50x;
-	background-color: grey;
+	background-color: palevioletred;
 	color: whitesmoke;
 
 }
